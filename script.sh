@@ -1,0 +1,1 @@
+cd recipes-service && ./mvnw spring-boot:run && cd ../recipe-client && npm start
